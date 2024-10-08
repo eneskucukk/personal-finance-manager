@@ -1,2 +1,1 @@
-```markdown
-![Uygulama Ekran Görüntüsü]Screenshot from 2024-10-08 19-37-35.png
+![alt text](https://github.com/eneskucukk/personal-finance-manager/blob/main/Screenshot%20from%202024-10-08%2019-37-35.png)
